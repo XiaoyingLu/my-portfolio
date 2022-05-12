@@ -29,7 +29,7 @@ const projects = [
         imgSrc: "/portfolio.jpg",
         description: "A website that shows my background and skills, and displays a collection of my professional projects.",
         gitHub: "https://github.com/XiaoyingLu/my-portfolio",
-        website: "#"
+        website: "https://my-portfolio-rust-eight.vercel.app/"
     },
     {
         name: "Yelp Camp",
